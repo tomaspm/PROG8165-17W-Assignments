@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background: #E9E9E9;
+  color: #666666;
+  font-family: 'RobotoDraft', 'Roboto', sans-serif;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+button {
+    background-color: #9c546e;
+    color: white;
+    padding: 14px 20px;
+    margin: 2px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    height: %
+    display: table;
+    margin: 0 auto;
+}
+ .mytext
+  {
+  	width: 300px
+  	height: 500px;
+  }
+  .main{
+    padding: 2em 0;
+  }
+
+
