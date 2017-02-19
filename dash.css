@@ -1,0 +1,43 @@
+html {
+	background-color: lightblue;	
+}
+body  {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+nav
+{
+text-align: right;
+}
+
+p
+{
+text-align: center;
+}
+
+.btnExample {
+  color: #900;
+  background: #FF0;
+  width: 200px;
+  height: 25px;
+  font-weight: bold;
+  border: 1px solid #900;
+ 
+}
+.btnExample:hover {
+ border-color: #F00 #C30 #C30 #F00;
+}
+ 
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 16px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
+
