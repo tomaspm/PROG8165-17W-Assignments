@@ -4,3 +4,4 @@ Hi, Thomas Plathanath Mathew here. I am currently enrolled in the Mobile Solutio
 Created New branch developments where index.html and main.css can be found. 
 The page that Akshay has committed needs to be refined because there should be a get method to take you to the dash baord.
 Uploaded initial dashbaord layout and the asspociated style file. Needs updation.
+committed and pulled the final version of assignment 2
